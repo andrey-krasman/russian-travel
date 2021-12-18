@@ -1,6 +1,7 @@
 .root {
-    background-color: #E5E5E5;
+    background-color: #2A2C2F;
     display: grid;
     justify-items: center;
     /* row-gap: 92px; */
+    font-family: Inter;
 }

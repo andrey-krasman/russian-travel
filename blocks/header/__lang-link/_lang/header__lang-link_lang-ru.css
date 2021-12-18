@@ -1,4 +1,11 @@
 .header__lang-link_lang-ru {
     width: 30px;
     height: 28px;
+    text-decoration-line: none;
+    margin-right: 18px;
+    color: white;
+}
+
+.header__lang-link_lang-ru:active {
+    text-decoration: underline;
 }
