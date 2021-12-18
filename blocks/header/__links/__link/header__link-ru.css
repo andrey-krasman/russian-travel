@@ -1,0 +1,18 @@
+.header__link-ru {
+    width: 30px;
+    height: 28px;
+    text-decoration-line: none;
+    margin-right: 18px;
+    color: white;
+}
+
+.header__link-ru:active {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 425px){
+    .header__link-ru {
+      width: 22px;
+      height: 20px;
+    }
+}

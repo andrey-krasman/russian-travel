@@ -1,0 +1,17 @@
+.header__link-en {
+    width: 30px;
+    height: 28px;
+    text-decoration-line: none;
+    color: white;
+}
+
+.header__link-en:active {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 425px){
+    .header__link-en {
+      width: 22px;
+      height: 20px;
+    }
+}

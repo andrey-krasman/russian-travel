@@ -1,10 +1,15 @@
-.header__lang-link {
+.header__links {
   display: flex;
   align-items: center;
-  /* width: calc(); */
   font-size: 24px;
   line-height: 28px;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
+}
+
+@media screen and (max-width: 425px){
+  .header__links {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
