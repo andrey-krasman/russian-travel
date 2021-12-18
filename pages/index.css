@@ -1,6 +1,6 @@
 /* NORMALIZE */
 @import url(../vendor/normalize.css);
 
-.root {
-    background-color: black;
-}
+/* ROOT */
+@import url(../blocks/root/root.css);
+

@@ -1,0 +1,12 @@
+.root {
+    background-color: #E5E5E5;
+    display: grid;
+    grid-template-areas: 
+    'header'
+    'lead'
+    'intro'
+    'photo-grid'
+    'places'
+    'cover'
+    'footer';
+}
