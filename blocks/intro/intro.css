@@ -1,5 +1,29 @@
 .intro {
  display: flex;
+ max-width: 690px;
  flex-direction: column;
- align-items: center;
+ /* align-self: flex-start; */
+ margin: 0 0 92px 148px;
+}
+
+@media screen and (max-width: 1200px){
+    .intro {
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .intro {
+        margin-bottom: 88px;
+        margin-left: 24px;
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .intro {
+        margin-bottom: 64px;
+        margin-left: 16px;
+        max-width: 288px;
+    }
 }
