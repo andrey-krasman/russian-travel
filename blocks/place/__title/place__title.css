@@ -5,4 +5,29 @@
     font-size: 72px;
     line-height: 76px;
     color: white;
+    grid-area: place__title;
+    margin: 0;
+    
+}
+
+@media screen and (max-width: 1200px){
+    .place__title {
+        max-width: 440px;
+    }
+}
+
+@media screen and (max-width: 950px){
+    .place__title {
+        max-width: 340px;
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 730px){
+    .place__title {
+        max-width: 288px;
+        font-size: 32px;
+        line-height: 35px;
+    }
 }

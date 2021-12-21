@@ -3,11 +3,5 @@
     grid-template-rows: repeat(5, 1fr);
     margin: 0;
     justify-items: center;
-    gap: 80px;
-
-    /* grid-template-rows: repeat(auto-fit, 213px);
-    gap: 16px;
-    justify-content: center;
-    margin-bottom: 92px; */
-    
+    gap: 80px;    
 }
