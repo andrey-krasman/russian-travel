@@ -5,8 +5,8 @@
     color: white;
 }
 
-.header__link-en:active {
-    text-decoration: underline;
+.header__link-en:hover {
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 425px){
