@@ -11,9 +11,8 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
-@import url(../blocks/header/__link/header__link-ru.css);
-@import url(../blocks/header/__link/header__link-en.css);
-@import url(../blocks/header/__link/_active/header__link-ru_active.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_active/header__link_active.css);
 
 
 /* MAIN */
