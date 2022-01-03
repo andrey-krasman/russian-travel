@@ -3,16 +3,17 @@
     margin: 0 auto 8px;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
     .lead__image {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 930px){
+@media screen and (max-width: 930px) {
     .lead__image {
         max-width: 100%;
     }
 }
+
 
 /* иначе картинка становится явно шире остального контента, кнопки языков начинают конкретно в центр бежать */

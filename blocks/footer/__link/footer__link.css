@@ -1,6 +1,5 @@
 .footer__link {
     text-decoration: none;
-    max-width: 106px;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -12,15 +11,13 @@
     margin: 0 18px 0;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 700px) {
     .footer__link {
         font-size: 24px;
         line-height: 24px;
         margin-left: 0;
     }
-
     .footer__link:nth-child(2n) {
         margin: 32px 0 32px 0;
     }
-
 }

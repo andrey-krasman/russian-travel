@@ -5,15 +5,11 @@
     font-size: 14px;
     line-height: 16px;
     color: white;
-  }
+    margin-right: 32px;
+}
 
-  @media screen and (max-width: 700px){
+@media screen and (max-width: 700px) {
     .footer__author {
         margin: 48px 0 0 0;
     }
-
-    .footer__link:nth-child(2n) {
-        margin: 32px 0 32px 0;
-    }
-
 }

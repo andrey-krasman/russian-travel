@@ -6,13 +6,13 @@
     margin: 0 auto 92px;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
     .lead {
         margin: 0 auto 88px;
     }
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
     .lead {
         margin: 0px auto 64px;
     }

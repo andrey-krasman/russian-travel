@@ -1,22 +1,23 @@
-.place__text{
-  grid-area: place__text;
-  max-width: 484px;
+.place__text {
+    grid-area: place__text;
+    max-width: 484px;
 }
 
-@media screen and (max-width: 1200px){
-  .place__text {
-      max-width: 456px;
-  }
+@media screen and (max-width: 1200px) {
+    .place__text {
+        max-width: 456px;
+    }
 }
 
-@media screen and (max-width: 950px){
-  .place__text {
-      max-width: 352px;
-  }
+@media screen and (max-width: 950px) {
+    .place__text {
+        max-width: 352px;
+    }
 }
 
-@media screen and (max-width: 730px){
-  .place__text {
-      max-width: 288px;
-  }
+@media screen and (max-width: 730px) {
+    .place__text {
+        max-width: 288px;
+        margin-left: 16px;
+    }
 }
