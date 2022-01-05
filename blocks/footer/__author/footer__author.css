@@ -1,11 +1,9 @@
 .footer__author {
-    max-width: 186px;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;
     color: white;
-    margin-right: 32px;
 }
 
 @media screen and (max-width: 700px) {
